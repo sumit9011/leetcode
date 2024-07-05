@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sumit9011/leetcode/tree/master/0075-sort-colors) |
+| [0142-linked-list-cycle-ii](https://github.com/sumit9011/leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -41,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/sumit9011/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Hash Table
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/sumit9011/leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Linked List
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/sumit9011/leetcode/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
