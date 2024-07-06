@@ -25,12 +25,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/sumit9011/leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sumit9011/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0189-rotate-array](https://github.com/sumit9011/leetcode/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sumit9011/leetcode/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/sumit9011/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/sumit9011/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/sumit9011/leetcode/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/sumit9011/leetcode/tree/master/0151-reverse-words-in-a-string) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/sumit9011/leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
