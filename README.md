@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sumit9011/leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/sumit9011/leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sumit9011/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0189-rotate-array](https://github.com/sumit9011/leetcode/tree/master/0189-rotate-array) |
@@ -97,4 +98,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/sumit9011/leetcode/tree/master/0204-count-primes) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/sumit9011/leetcode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/sumit9011/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
