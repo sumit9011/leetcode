@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/sumit9011/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/sumit9011/leetcode/tree/master/0204-count-primes) |
+| [1013-fibonacci-number](https://github.com/sumit9011/leetcode/tree/master/1013-fibonacci-number) |
 ## Enumeration
 |  |
 | ------- |
@@ -112,4 +113,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sumit9011/leetcode/tree/master/0054-spiral-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/sumit9011/leetcode/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/sumit9011/leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/sumit9011/leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
