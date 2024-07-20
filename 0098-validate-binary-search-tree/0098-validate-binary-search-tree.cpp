@@ -12,6 +12,9 @@
 class Solution {
 public:
 
+    //inorder of BST is always sorted
+    //we can use this to check if BST is valid
+
     void  bstInorder(TreeNode* root,vector<int> & ans)
     {
         if(root==NULL)
