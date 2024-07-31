@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sumit9011/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sumit9011/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/sumit9011/leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0617-merge-two-binary-trees](https://github.com/sumit9011/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sumit9011/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sumit9011/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sumit9011/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sumit9011/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sumit9011/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sumit9011/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/sumit9011/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sumit9011/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sumit9011/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/sumit9011/leetcode/tree/master/1285-balance-a-binary-search-tree) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/sumit9011/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sumit9011/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sumit9011/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0617-merge-two-binary-trees](https://github.com/sumit9011/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sumit9011/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sumit9011/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/sumit9011/leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sumit9011/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sumit9011/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/sumit9011/leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0617-merge-two-binary-trees](https://github.com/sumit9011/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sumit9011/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sumit9011/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sumit9011/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
