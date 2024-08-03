@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/sumit9011/leetcode/tree/master/0948-sort-an-array) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sumit9011/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/sumit9011/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sumit9011/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sumit9011/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sumit9011/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2502-sort-the-people](https://github.com/sumit9011/leetcode/tree/master/2502-sort-the-people) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sumit9011/leetcode/tree/master/0075-sort-colors) |
 | [0948-sort-an-array](https://github.com/sumit9011/leetcode/tree/master/0948-sort-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sumit9011/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sumit9011/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sumit9011/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/sumit9011/leetcode/tree/master/2502-sort-the-people) |
 ## Stack
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/sumit9011/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sumit9011/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sumit9011/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sumit9011/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sumit9011/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sumit9011/leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2502-sort-the-people](https://github.com/sumit9011/leetcode/tree/master/2502-sort-the-people) |
