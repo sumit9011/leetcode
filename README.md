@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sumit9011/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/sumit9011/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sumit9011/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/sumit9011/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sumit9011/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sumit9011/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2502-sort-the-people](https://github.com/sumit9011/leetcode/tree/master/2502-sort-the-people) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sumit9011/leetcode/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/sumit9011/leetcode/tree/master/0443-string-compression) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sumit9011/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/sumit9011/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Sorting
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/sumit9011/leetcode/tree/master/0948-sort-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sumit9011/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sumit9011/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/sumit9011/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sumit9011/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/sumit9011/leetcode/tree/master/2502-sort-the-people) |
 ## Stack
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/sumit9011/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sumit9011/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1285-balance-a-binary-search-tree](https://github.com/sumit9011/leetcode/tree/master/1285-balance-a-binary-search-tree) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/sumit9011/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Backtracking
 |  |
 | ------- |
