@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sumit9011/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sumit9011/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sumit9011/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2155-find-missing-observations](https://github.com/sumit9011/leetcode/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sumit9011/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sumit9011/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sumit9011/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/sumit9011/leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/sumit9011/leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/sumit9011/leetcode/tree/master/1013-fibonacci-number) |
+| [2155-find-missing-observations](https://github.com/sumit9011/leetcode/tree/master/2155-find-missing-observations) |
 ## Enumeration
 |  |
 | ------- |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sumit9011/leetcode/tree/master/0054-spiral-matrix) |
+| [2155-find-missing-observations](https://github.com/sumit9011/leetcode/tree/master/2155-find-missing-observations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sumit9011/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
