@@ -363,4 +363,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/sumit9011/leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/sumit9011/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
