@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sumit9011/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sumit9011/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sumit9011/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/sumit9011/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0617-merge-two-binary-trees](https://github.com/sumit9011/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sumit9011/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sumit9011/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -368,4 +369,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/sumit9011/leetcode/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/sumit9011/leetcode/tree/master/0176-second-highest-salary) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/sumit9011/leetcode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
