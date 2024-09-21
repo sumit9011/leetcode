@@ -2,6 +2,8 @@ class Solution {
 public:
     vector<int> lexicalOrder(int n) {
         
+        //Approach-1
+        
         vector<string> temp;
         for(int i=1;i<=n;i++)
         {
