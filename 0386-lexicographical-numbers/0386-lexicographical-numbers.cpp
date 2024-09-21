@@ -1,23 +1,22 @@
 class Solution {
 public:
-    vector<int> lexicalOrder(int n) {
-        
-        //Approach-1
-        
-        vector<string> temp;
-        for(int i=1;i<=n;i++)
-        {
-            temp.push_back(to_string(i));
-        }
+    void solve(int temp,int n,vector<int>& ans)
+    {
+        if(temp>n)
+            return;
+        ans.push_back(temp);
+        solve(temp*10,n,ans);
+        if(temp % 10 !=9)
+            solve(temp+1,n,ans);    
+    }
 
-        sort(temp.begin(),temp.end());
+
+    vector<int> lexicalOrder(int n) {
+    
+        //Approach-2
 
         vector<int> ans;
-        for(int i=0;i<temp.size();i++)
-        {
-            ans.push_back(stoi(temp[i]));
-        }
-
+        solve(1,n,ans);
         return ans;
     }
 };
