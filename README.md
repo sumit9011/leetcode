@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sumit9011/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sumit9011/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/sumit9011/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0792-binary-search](https://github.com/sumit9011/leetcode/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/sumit9011/leetcode/tree/master/0948-sort-an-array) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sumit9011/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/sumit9011/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sumit9011/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sumit9011/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sumit9011/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0792-binary-search](https://github.com/sumit9011/leetcode/tree/master/0792-binary-search) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sumit9011/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1285-balance-a-binary-search-tree](https://github.com/sumit9011/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sumit9011/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
