@@ -1,11 +1,9 @@
 class Solution {
 public:
-
-    //formula to find number at particular row and col = nCr  where n=row-1  & r=col-1
-
-    int nCr(int n, int r)
+    int nCr(int n,int r)
     {
-        long long int res=1;
+        long long res=1;
+
         for(int i=0;i<r;i++)
         {
             res=res*(n-i);
@@ -14,9 +12,8 @@ public:
 
         return res;
     }
-
     vector<vector<int>> generate(int numRows) {
-        
+
         vector<vector<int>> ans;
 
         for(int row=1;row<=numRows;row++)
@@ -25,13 +22,13 @@ public:
 
             for(int col=1;col<=row;col++)
             {
-                int ans=nCr(row-1,col-1);
-                temp.push_back(ans);
+                temp.push_back(nCr(row-1,col-1));
             }
 
             ans.push_back(temp);
         }
 
         return ans;
+        
     }
 };
