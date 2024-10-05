@@ -4,7 +4,7 @@ public:
 
         int i=0;
         int n=s.size();
-        string ans;
+        string ans="";
 
         while(i<n)
         {
@@ -13,7 +13,8 @@ public:
             while(s[i]==' ' && i<n)
             {
                 i++;
-            }
+            }    
+
             while(s[i]!=' ' && i<n)
             {
                 temp=temp+s[i];
@@ -32,7 +33,8 @@ public:
                 }
             }
         }
-    return ans;
+
+        return ans;
         
     }
 };
