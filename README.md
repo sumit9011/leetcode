@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sumit9011/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sumit9011/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/sumit9011/leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/sumit9011/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sumit9011/leetcode/tree/master/0268-missing-number) |
 | [0948-sort-an-array](https://github.com/sumit9011/leetcode/tree/master/0948-sort-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sumit9011/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sumit9011/leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/sumit9011/leetcode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/sumit9011/leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/sumit9011/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sumit9011/leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/sumit9011/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sumit9011/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/sumit9011/leetcode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/sumit9011/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/sumit9011/leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/sumit9011/leetcode/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/sumit9011/leetcode/tree/master/0443-string-compression) |
 | [0812-rotate-string](https://github.com/sumit9011/leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/sumit9011/leetcode/tree/master/1078-remove-outermost-parentheses) |
