@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/sumit9011/leetcode/tree/master/0948-sort-an-array) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sumit9011/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sumit9011/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/sumit9011/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/sumit9011/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sumit9011/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/sumit9011/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/sumit9011/leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/sumit9011/leetcode/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sumit9011/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/sumit9011/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sumit9011/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sumit9011/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/sumit9011/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/sumit9011/leetcode/tree/master/0948-sort-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sumit9011/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/sumit9011/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sumit9011/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sumit9011/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sumit9011/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/sumit9011/leetcode/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sumit9011/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sumit9011/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/sumit9011/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sumit9011/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sumit9011/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sumit9011/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -353,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sumit9011/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1285-balance-a-binary-search-tree](https://github.com/sumit9011/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sumit9011/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/sumit9011/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/sumit9011/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sumit9011/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Backtracking
