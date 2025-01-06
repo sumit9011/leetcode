@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/sumit9011/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sumit9011/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0142-linked-list-cycle-ii](https://github.com/sumit9011/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0237-delete-node-in-a-linked-list](https://github.com/sumit9011/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sumit9011/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
