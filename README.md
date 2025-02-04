@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sumit9011/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/sumit9011/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sumit9011/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3429-special-array-i](https://github.com/sumit9011/leetcode/tree/master/3429-special-array-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sumit9011/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
