@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/sumit9011/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sumit9011/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sumit9011/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sumit9011/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sumit9011/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sumit9011/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sumit9011/leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sumit9011/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/sumit9011/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sumit9011/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sumit9011/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2032-largest-odd-number-in-string](https://github.com/sumit9011/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sumit9011/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sumit9011/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/sumit9011/leetcode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/sumit9011/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/sumit9011/leetcode/tree/master/0948-sort-an-array) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sumit9011/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sumit9011/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sumit9011/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/sumit9011/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
