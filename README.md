@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sumit9011/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sumit9011/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2358-number-of-ways-to-split-array](https://github.com/sumit9011/leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [2448-count-number-of-bad-pairs](https://github.com/sumit9011/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2502-sort-the-people](https://github.com/sumit9011/leetcode/tree/master/2502-sort-the-people) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/sumit9011/leetcode/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/sumit9011/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sumit9011/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sumit9011/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sumit9011/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2448-count-number-of-bad-pairs](https://github.com/sumit9011/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sumit9011/leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2502-sort-the-people](https://github.com/sumit9011/leetcode/tree/master/2502-sort-the-people) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sumit9011/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/sumit9011/leetcode/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/sumit9011/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2155-find-missing-observations](https://github.com/sumit9011/leetcode/tree/master/2155-find-missing-observations) |
+| [2448-count-number-of-bad-pairs](https://github.com/sumit9011/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 ## Enumeration
 |  |
 | ------- |
@@ -431,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/sumit9011/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sumit9011/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sumit9011/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2448-count-number-of-bad-pairs](https://github.com/sumit9011/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sumit9011/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/sumit9011/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Graph
