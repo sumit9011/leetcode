@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sumit9011/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/sumit9011/leetcode/tree/master/3429-special-array-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sumit9011/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3519-find-the-number-of-winning-players](https://github.com/sumit9011/leetcode/tree/master/3519-find-the-number-of-winning-players) |
 ## Two Pointers
 |  |
 | ------- |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sumit9011/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/sumit9011/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sumit9011/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3519-find-the-number-of-winning-players](https://github.com/sumit9011/leetcode/tree/master/3519-find-the-number-of-winning-players) |
 ## Linked List
 |  |
 | ------- |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/sumit9011/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sumit9011/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/sumit9011/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3519-find-the-number-of-winning-players](https://github.com/sumit9011/leetcode/tree/master/3519-find-the-number-of-winning-players) |
 ## Graph
 |  |
 | ------- |
