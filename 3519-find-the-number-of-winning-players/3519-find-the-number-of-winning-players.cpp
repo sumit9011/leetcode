@@ -4,7 +4,7 @@ public:
         
         int size=pick.size();
         int i=0;
-        map<int,int> mp;
+        unordered_map<int,int> mp;
         int ans=0;
         sort(pick.begin(),pick.end());
 
