@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/sumit9011/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sumit9011/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/sumit9011/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/sumit9011/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/sumit9011/leetcode/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/sumit9011/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sumit9011/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sumit9011/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/sumit9011/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/sumit9011/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sumit9011/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sumit9011/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sumit9011/leetcode/tree/master/0054-spiral-matrix) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/sumit9011/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2155-find-missing-observations](https://github.com/sumit9011/leetcode/tree/master/2155-find-missing-observations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sumit9011/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/sumit9011/leetcode/tree/master/2684-determine-the-winner-of-a-bowling-game) |
